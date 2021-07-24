@@ -1,0 +1,17 @@
+{
+  "name": "node_crash_rewatch",
+  "version": "1.0.0",
+  "description": "Node Crash Course",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "Tom Erastus",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
